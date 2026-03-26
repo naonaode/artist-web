@@ -1,0 +1,2922 @@
+[
+  {
+    "day": 1,
+    "name": "文森特·梵高",
+    "enName": "",
+    "years": "1853–1890",
+    "country": "荷兰",
+    "genre": "后印象派"
+  },
+  {
+    "day": 2,
+    "name": "弗里达·卡罗",
+    "enName": "",
+    "years": "1907–1954",
+    "country": "墨西哥",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 3,
+    "name": "萨尔瓦多·达利",
+    "enName": "",
+    "years": "1904–1989",
+    "country": "西班牙",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 4,
+    "name": "草间弥生",
+    "enName": "",
+    "years": "1929–",
+    "country": "日本",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 5,
+    "name": "让-米歇尔·巴斯奎特",
+    "enName": "",
+    "years": "1960–1988",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 6,
+    "name": "班克斯",
+    "enName": "",
+    "years": "1974–",
+    "country": "英国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 7,
+    "name": "卡拉瓦乔",
+    "enName": "",
+    "years": "1571–1610",
+    "country": "意大利",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 8,
+    "name": "埃贡·席勒",
+    "enName": "",
+    "years": "1890–1918",
+    "country": "奥地利",
+    "genre": "现代主义"
+  },
+  {
+    "day": 9,
+    "name": "古斯塔夫·克里姆特",
+    "enName": "",
+    "years": "1862–1918",
+    "country": "奥地利",
+    "genre": "后印象派"
+  },
+  {
+    "day": 10,
+    "name": "安迪·沃霍尔",
+    "enName": "",
+    "years": "1928–1987",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 11,
+    "name": "达明·赫斯特",
+    "enName": "",
+    "years": "1965–",
+    "country": "英国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 12,
+    "name": "勒内·马格利特",
+    "enName": "",
+    "years": "1898–1967",
+    "country": "比利时",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 13,
+    "name": "爱德华·蒙克",
+    "enName": "",
+    "years": "1863–1944",
+    "country": "挪威",
+    "genre": "后印象派"
+  },
+  {
+    "day": 14,
+    "name": "葛饰北斋",
+    "enName": "",
+    "years": "1760–1849",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 15,
+    "name": "列奥纳多·达芬奇",
+    "enName": "",
+    "years": "1452–1519",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 16,
+    "name": "巴勃罗·毕加索",
+    "enName": "",
+    "years": "1881–1973",
+    "country": "西班牙",
+    "genre": "现代主义"
+  },
+  {
+    "day": 17,
+    "name": "马克·罗斯科",
+    "enName": "",
+    "years": "1903–1970",
+    "country": "美国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 18,
+    "name": "杰夫·昆斯",
+    "enName": "",
+    "years": "1955–",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 19,
+    "name": "阿尔特米西亚·真蒂莱斯基",
+    "enName": "",
+    "years": "1593–1656",
+    "country": "意大利",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 20,
+    "name": "齐白石",
+    "enName": "",
+    "years": "1864–1957",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 21,
+    "name": "基思·哈林",
+    "enName": "",
+    "years": "1958–1990",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 22,
+    "name": "伦勃朗",
+    "enName": "",
+    "years": "1606–1669",
+    "country": "荷兰",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 23,
+    "name": "维米尔",
+    "enName": "",
+    "years": "1632–1675",
+    "country": "荷兰",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 24,
+    "name": "村上隆",
+    "enName": "",
+    "years": "1962–",
+    "country": "日本",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 25,
+    "name": "艾未未",
+    "enName": "",
+    "years": "1957–",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 26,
+    "name": "保罗·高更",
+    "enName": "",
+    "years": "1848–1903",
+    "country": "法国",
+    "genre": "后印象派"
+  },
+  {
+    "day": 27,
+    "name": "米开朗基罗",
+    "enName": "",
+    "years": "1475–1564",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 28,
+    "name": "玛丽娜·阿布拉莫维奇",
+    "enName": "",
+    "years": "1946–",
+    "country": "塞尔维亚",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 29,
+    "name": "杰克逊·波洛克",
+    "enName": "",
+    "years": "1912–1956",
+    "country": "美国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 30,
+    "name": "委拉斯开兹",
+    "enName": "",
+    "years": "1599–1660",
+    "country": "西班牙",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 31,
+    "name": "保罗·塞尚",
+    "enName": "",
+    "years": "1839–1906",
+    "country": "法国",
+    "genre": "后印象派"
+  },
+  {
+    "day": 32,
+    "name": "乔治亚·欧姬芙",
+    "enName": "",
+    "years": "1887–1986",
+    "country": "美国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 33,
+    "name": "埃德加·德加",
+    "enName": "",
+    "years": "1834–1917",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 34,
+    "name": "克劳德·莫奈",
+    "enName": "",
+    "years": "1840–1926",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 35,
+    "name": "张大千",
+    "enName": "",
+    "years": "1899–1983",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 36,
+    "name": "马克·夏加尔",
+    "enName": "",
+    "years": "1887–1985",
+    "country": "俄罗斯/法国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 37,
+    "name": "威廉·德库宁",
+    "enName": "",
+    "years": "1904–1997",
+    "country": "荷兰/美国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 38,
+    "name": "弗兰斯·哈尔斯",
+    "enName": "",
+    "years": "1582–1666",
+    "country": "荷兰",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 39,
+    "name": "欧仁·德拉克鲁瓦",
+    "enName": "",
+    "years": "1798–1863",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 40,
+    "name": "徐悲鸿",
+    "enName": "",
+    "years": "1895–1953",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 41,
+    "name": "皮埃尔-奥古斯特·雷诺阿",
+    "enName": "",
+    "years": "1841–1919",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 42,
+    "name": "安塞尔姆·基弗",
+    "enName": "",
+    "years": "1945–",
+    "country": "德国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 43,
+    "name": "亨利·马蒂斯",
+    "enName": "",
+    "years": "1869–1954",
+    "country": "法国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 44,
+    "name": "歌川广重",
+    "enName": "",
+    "years": "1797–1858",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 45,
+    "name": "罗伊·利希滕斯坦",
+    "enName": "",
+    "years": "1923–1997",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 46,
+    "name": "奥古斯特·罗丹",
+    "enName": "",
+    "years": "1840–1917",
+    "country": "法国",
+    "genre": "表现主义"
+  },
+  {
+    "day": 47,
+    "name": "卡米耶·毕沙罗",
+    "enName": "",
+    "years": "1830–1903",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 48,
+    "name": "月冈芳年",
+    "enName": "",
+    "years": "1839–1892",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 49,
+    "name": "乔凡尼·巴蒂斯塔·提耶波罗",
+    "enName": "",
+    "years": "1696–1770",
+    "country": "意大利",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 50,
+    "name": "曾梵志",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 51,
+    "name": "大卫·霍克尼",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 52,
+    "name": "卡特·科尔维茨",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "表现主义"
+  },
+  {
+    "day": 53,
+    "name": "拉斐尔",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 54,
+    "name": "亚历山大·罗德钦科",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 55,
+    "name": "上村松园",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 56,
+    "name": "弗朗西斯科·戈雅",
+    "enName": "",
+    "years": "",
+    "country": "西班牙",
+    "genre": "古典主义"
+  },
+  {
+    "day": 57,
+    "name": "李禹焕",
+    "enName": "",
+    "years": "",
+    "country": "韩国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 58,
+    "name": "胡安·米罗",
+    "enName": "",
+    "years": "",
+    "country": "西班牙",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 59,
+    "name": "傅抱石",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 60,
+    "name": "辛迪·谢尔曼",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 61,
+    "name": "提香",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 62,
+    "name": "詹姆斯·罗森奎斯特",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 63,
+    "name": "卡济米尔·马列维奇",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 64,
+    "name": "林风眠",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 65,
+    "name": "保罗·克利",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 66,
+    "name": "格尔哈德·里希特",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 67,
+    "name": "波提切利",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 68,
+    "name": "奈良美智",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 69,
+    "name": "雷蒙德·科尔多瓦",
+    "enName": "",
+    "years": "",
+    "country": "阿根廷",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 70,
+    "name": "布里奇特·莱利",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 71,
+    "name": "乔治·修拉",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 72,
+    "name": "吴冠中",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 73,
+    "name": "安德烈·马松",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 74,
+    "name": "老彼得·勃鲁盖尔",
+    "enName": "",
+    "years": "",
+    "country": "尼德兰",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 75,
+    "name": "白南准",
+    "enName": "",
+    "years": "",
+    "country": "韩国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 76,
+    "name": "爱德华·霍普",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 77,
+    "name": "蕾梅迪奥斯·瓦罗",
+    "enName": "",
+    "years": "",
+    "country": "西班牙/墨西哥",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 78,
+    "name": "西奥多·杰里科",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 79,
+    "name": "王广义",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 80,
+    "name": "约翰·埃弗里特·米莱斯",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 81,
+    "name": "皮特·蒙德里安",
+    "enName": "",
+    "years": "",
+    "country": "荷兰",
+    "genre": "现代主义"
+  },
+  {
+    "day": 82,
+    "name": "图卢兹-劳特累克",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派"
+  },
+  {
+    "day": 83,
+    "name": "蔡国强",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 84,
+    "name": "汉斯·荷尔拜因",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 85,
+    "name": "马克斯·恩斯特",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 86,
+    "name": "李可染",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 87,
+    "name": "珍妮·萨维尔",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 88,
+    "name": "乔治·布拉克",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 89,
+    "name": "贾斯珀·约翰斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 90,
+    "name": "潘天寿",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 91,
+    "name": "多萝西亚·坦宁",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 92,
+    "name": "安东尼·凡·戴克",
+    "enName": "",
+    "years": "",
+    "country": "法兰德斯",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 93,
+    "name": "古斯塔夫·库尔贝",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 94,
+    "name": "奥拉维尔·埃利亚松",
+    "enName": "",
+    "years": "",
+    "country": "丹麦/冰岛",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 95,
+    "name": "扬·凡·艾克",
+    "enName": "",
+    "years": "",
+    "country": "荷兰",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 96,
+    "name": "保罗·德尔沃",
+    "enName": "",
+    "years": "",
+    "country": "比利时",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 97,
+    "name": "横山大观",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 98,
+    "name": "奥托·迪克斯",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "表现主义"
+  },
+  {
+    "day": 99,
+    "name": "伊夫·唐吉",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 100,
+    "name": "张晓刚",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 101,
+    "name": "约翰·辛格·萨金特",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "印象派"
+  },
+  {
+    "day": 102,
+    "name": "方力钧",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 103,
+    "name": "彼得·保罗·鲁本斯",
+    "enName": "",
+    "years": "",
+    "country": "法兰德斯",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 104,
+    "name": "索尼娅·德劳内",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯/法国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 105,
+    "name": "柯罗",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 106,
+    "name": "赵无极",
+    "enName": "",
+    "years": "",
+    "country": "中国/法国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 107,
+    "name": "威廉·布莱克",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 108,
+    "name": "约瑟夫·博伊斯",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 109,
+    "name": "郑板桥",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 110,
+    "name": "罗伯特·劳森伯格",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 111,
+    "name": "伊利亚·列宾",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "印象派"
+  },
+  {
+    "day": 112,
+    "name": "维弗雷多·拉姆",
+    "enName": "",
+    "years": "",
+    "country": "古巴",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 113,
+    "name": "安德斯·佐恩",
+    "enName": "",
+    "years": "",
+    "country": "瑞典",
+    "genre": "印象派"
+  },
+  {
+    "day": 114,
+    "name": "徐冰",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 115,
+    "name": "詹姆斯·恩索尔",
+    "enName": "",
+    "years": "",
+    "country": "比利时",
+    "genre": "后印象派"
+  },
+  {
+    "day": 116,
+    "name": "弗里德里希",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "古典主义"
+  },
+  {
+    "day": 117,
+    "name": "岳敏君",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 118,
+    "name": "华金·索罗利亚",
+    "enName": "",
+    "years": "",
+    "country": "西班牙",
+    "genre": "印象派"
+  },
+  {
+    "day": 119,
+    "name": "埃贡·席勒",
+    "enName": "二",
+    "years": "",
+    "country": "奥地利",
+    "genre": "现代主义"
+  },
+  {
+    "day": 120,
+    "name": "弗莱亚·汉森",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "表现主义"
+  },
+  {
+    "day": 121,
+    "name": "八大山人",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 122,
+    "name": "丹·弗拉文",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 123,
+    "name": "乔瓦尼·巴蒂斯塔·皮拉内西",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "古典主义"
+  },
+  {
+    "day": 124,
+    "name": "刘小东",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 125,
+    "name": "玛丽·卡萨特",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "印象派"
+  },
+  {
+    "day": 126,
+    "name": "石涛",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 127,
+    "name": "唐纳德·贾德",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 128,
+    "name": "埃尔·格列柯",
+    "enName": "",
+    "years": "",
+    "country": "希腊/西班牙",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 129,
+    "name": "约翰·康斯特布尔",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "古典主义"
+  },
+  {
+    "day": 130,
+    "name": "奥古斯特·马克",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 131,
+    "name": "朱德群",
+    "enName": "",
+    "years": "",
+    "country": "中国/法国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 132,
+    "name": "让-弗朗索瓦·米勒",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 133,
+    "name": "索尔·勒维特",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 134,
+    "name": "翁贝托·波丘尼",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "现代主义"
+  },
+  {
+    "day": 135,
+    "name": "菱田春草",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 136,
+    "name": "阿梅代奥·莫迪利亚尼",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "现代主义"
+  },
+  {
+    "day": 137,
+    "name": "费尔南德·博特罗",
+    "enName": "",
+    "years": "",
+    "country": "哥伦比亚",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 138,
+    "name": "瓦西里·康定斯基",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 139,
+    "name": "董其昌",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 140,
+    "name": "尼古拉斯·普桑",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 141,
+    "name": "艾米丽·卡尔",
+    "enName": "",
+    "years": "",
+    "country": "加拿大",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 142,
+    "name": "安迪·戈兹沃西",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 143,
+    "name": "但丁·加布里埃尔·罗塞蒂",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 144,
+    "name": "纳塔莉亚·冈察洛娃",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 145,
+    "name": "宫岛达男",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 146,
+    "name": "弗雷德里克·莱顿",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 147,
+    "name": "雅各布·劳伦斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 148,
+    "name": "埃尔·利西茨基",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 149,
+    "name": "伊丽莎白·维杰·勒布伦",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "古典主义"
+  },
+  {
+    "day": 150,
+    "name": "保罗·西涅克",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "印象派"
+  },
+  {
+    "day": 151,
+    "name": "范宽",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 152,
+    "name": "西格马·波尔克",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 153,
+    "name": "马萨乔",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 154,
+    "name": "乔纳斯·梅卡斯",
+    "enName": "",
+    "years": "",
+    "country": "立陶宛/美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 155,
+    "name": "古斯塔夫·莫罗",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 156,
+    "name": "黄宾虹",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 157,
+    "name": "克莱斯·奥尔登堡",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 158,
+    "name": "乔治·格罗斯",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "表现主义"
+  },
+  {
+    "day": 159,
+    "name": "喜多川歌麿",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 160,
+    "name": "詹姆斯·特瑞尔",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 161,
+    "name": "卡洛斯·施瓦布",
+    "enName": "",
+    "years": "",
+    "country": "瑞士",
+    "genre": "后印象派"
+  },
+  {
+    "day": 162,
+    "name": "刘国松",
+    "enName": "",
+    "years": "",
+    "country": "台湾",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 163,
+    "name": "威廉·荷加斯",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "巴洛克"
+  },
+  {
+    "day": 164,
+    "name": "阿卜杜勒纳赛尔·加雷姆",
+    "enName": "",
+    "years": "",
+    "country": "伊拉克",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 165,
+    "name": "星夜特辑（梵高）",
+    "enName": "",
+    "years": "",
+    "country": "荷兰",
+    "genre": "后印象派"
+  },
+  {
+    "day": 166,
+    "name": "皮耶罗·曼佐尼",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 167,
+    "name": "郭熙",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 168,
+    "name": "科雷拉·科斯特洛",
+    "enName": "",
+    "years": "",
+    "country": "尼日利亚",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 169,
+    "name": "汤姆·韦塞尔曼",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术"
+  },
+  {
+    "day": 170,
+    "name": "卡斯帕·大卫·弗里德里希",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "古典主义"
+  },
+  {
+    "day": 171,
+    "name": "莫纳·哈图姆",
+    "enName": "",
+    "years": "",
+    "country": "巴勒斯坦/英国",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 172,
+    "name": "玛丽·罗兰森",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 173,
+    "name": "安德烈亚·曼泰尼亚",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 174,
+    "name": "罗梅尔·比尼坦",
+    "enName": "",
+    "years": "",
+    "country": "菲律宾",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 175,
+    "name": "亚历克谢·冯·扬伦斯基",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "表现主义"
+  },
+  {
+    "day": 176,
+    "name": "埃尔·阿纳楚伊",
+    "enName": "",
+    "years": "",
+    "country": "加纳",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 177,
+    "name": "弗兰茨·马尔克",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 178,
+    "name": "弗拉·安吉利科",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 179,
+    "name": "斯坦利·惠特尼",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 180,
+    "name": "弗拉基米尔·塔特林",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义"
+  },
+  {
+    "day": 181,
+    "name": "弗朗茨·克莱恩",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 182,
+    "name": "喜多川歌麿",
+    "enName": "二",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 183,
+    "name": "汉斯·哈通",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 184,
+    "name": "卡伊·唐吉",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 185,
+    "name": "朱德群",
+    "enName": "二",
+    "years": "",
+    "country": "中国/法国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 186,
+    "name": "鲁菲诺·塔马约",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 187,
+    "name": "弗雷德里克·埃德温·丘奇",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "浪漫主义"
+  },
+  {
+    "day": 188,
+    "name": "布鲁斯·瑙曼",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 189,
+    "name": "莱奥诺拉·卡灵顿",
+    "enName": "",
+    "years": "",
+    "country": "英国/墨西哥",
+    "genre": "超现实主义"
+  },
+  {
+    "day": 190,
+    "name": "约书亚·雷诺兹",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "古典主义"
+  },
+  {
+    "day": 191,
+    "name": "恩斯特·路德维希·基希纳",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 192,
+    "name": "维克托·博茨瓦纳",
+    "enName": "",
+    "years": "",
+    "country": "加纳",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 193,
+    "name": "皮耶罗·德拉·弗朗切斯卡",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 194,
+    "name": "菲利普·威尔森·斯蒂尔",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "印象派"
+  },
+  {
+    "day": 195,
+    "name": "弗里茨·冯·乌德",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "印象派"
+  },
+  {
+    "day": 196,
+    "name": "托马斯·哈特·本顿",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义"
+  },
+  {
+    "day": 197,
+    "name": "罗马尔·比尔登",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 198,
+    "name": "维罗内塞",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 199,
+    "name": "何塞·克莱门特·奥罗斯科",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "现代主义"
+  },
+  {
+    "day": 200,
+    "name": "赵无极",
+    "enName": "二",
+    "years": "",
+    "country": "中国/法国",
+    "genre": "当代艺术"
+  },
+  {
+    "day": 201,
+    "name": "科雷乔",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 202,
+    "name": "卢奇奥·丰塔纳",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 203,
+    "name": "喜多川歌麿",
+    "enName": "三",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术"
+  },
+  {
+    "day": 204,
+    "name": "多梅尼科·基尔兰达约",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴"
+  },
+  {
+    "day": 205,
+    "name": "阿马里塔·谢尔吉尔",
+    "enName": "",
+    "years": "",
+    "country": "印度",
+    "genre": "非西方/民族"
+  },
+  {
+    "day": 206,
+    "name": "尼古拉·德·斯泰埃尔",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯/法国",
+    "genre": "抽象主义"
+  },
+  {
+    "day": 207,
+    "name": "大卫·阿尔法罗·西盖罗斯",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "现代主义"
+  },
+  {
+    "day": 208,
+    "name": "伦佐·皮亚诺",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "当代艺术/建筑"
+  },
+  {
+    "day": 209,
+    "name": "黛安·阿勃丝",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/摄影"
+  },
+  {
+    "day": 210,
+    "name": "塔玛拉·德·兰碧卡",
+    "enName": "",
+    "years": "",
+    "country": "波兰",
+    "genre": "现代主义/装饰艺术"
+  },
+  {
+    "day": 211,
+    "name": "露易丝·布尔乔亚",
+    "enName": "",
+    "years": "",
+    "country": "法国/美国",
+    "genre": "当代艺术/大蜘蛛"
+  },
+  {
+    "day": 212,
+    "name": "朱迪·芝加哥",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/女性艺术"
+  },
+  {
+    "day": 213,
+    "name": "翠西·艾敏",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/我的床"
+  },
+  {
+    "day": 214,
+    "name": "安妮·莱柏维兹",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/杂志摄影"
+  },
+  {
+    "day": 215,
+    "name": "奇奇·史密斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/身体雕塑"
+  },
+  {
+    "day": 216,
+    "name": "南·戈尔丁",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/私摄影叙事"
+  },
+  {
+    "day": 217,
+    "name": "萨拉·卢卡斯",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/粗俗与反叛"
+  },
+  {
+    "day": 218,
+    "name": "井上有一",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/疯狂书道"
+  },
+  {
+    "day": 219,
+    "name": "关山月",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/岭南画派"
+  },
+  {
+    "day": 220,
+    "name": "弘一法师",
+    "enName": "李叔同",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/书法艺绘"
+  },
+  {
+    "day": 221,
+    "name": "常玉",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "现代主义/盆景与裸女"
+  },
+  {
+    "day": 222,
+    "name": "潘玉良",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "现代主义/女性自我凝视"
+  },
+  {
+    "day": 223,
+    "name": "丁聪",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/讽刺漫画"
+  },
+  {
+    "day": 224,
+    "name": "丰子恺",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/诗意漫画"
+  },
+  {
+    "day": 225,
+    "name": "扎哈·哈迪德",
+    "enName": "",
+    "years": "",
+    "country": "伊拉克/英国",
+    "genre": "当代建筑/曲线反重力"
+  },
+  {
+    "day": 226,
+    "name": "安藤忠雄",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代建筑/清水混凝土"
+  },
+  {
+    "day": 227,
+    "name": "贝聿铭",
+    "enName": "",
+    "years": "",
+    "country": "中国/美国",
+    "genre": "现代主义/光与空间"
+  },
+  {
+    "day": 228,
+    "name": "弗兰克·盖里",
+    "enName": "",
+    "years": "",
+    "country": "加拿大/美国",
+    "genre": "当代建筑/解构金属"
+  },
+  {
+    "day": 229,
+    "name": "勒·柯布西耶",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义/光辉城市"
+  },
+  {
+    "day": 230,
+    "name": "路易·康",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/光与静谧"
+  },
+  {
+    "day": 231,
+    "name": "弗兰克·劳埃德·赖特",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/流水别墅"
+  },
+  {
+    "day": 232,
+    "name": "亨利·卡蒂埃-布列松",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义/决定性瞬间"
+  },
+  {
+    "day": 233,
+    "name": "安塞尔·亚当斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/风光摄影"
+  },
+  {
+    "day": 234,
+    "name": "荒木经惟",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术/情色与伤感"
+  },
+  {
+    "day": 235,
+    "name": "杉本博司",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术/观念摄影"
+  },
+  {
+    "day": 236,
+    "name": "罗伯特·卡帕",
+    "enName": "",
+    "years": "",
+    "country": "匈牙利/美国",
+    "genre": "现代主义/战地摄影"
+  },
+  {
+    "day": 237,
+    "name": "何藩",
+    "enName": "",
+    "years": "",
+    "country": "中国香港",
+    "genre": "现代主义/香港光影"
+  },
+  {
+    "day": 238,
+    "name": "萨尔加多",
+    "enName": "",
+    "years": "",
+    "country": "巴西",
+    "genre": "当代艺术/苦难纪实"
+  },
+  {
+    "day": 239,
+    "name": "维克·穆尼斯",
+    "enName": "",
+    "years": "",
+    "country": "巴西",
+    "genre": "当代艺术/垃圾场肖像"
+  },
+  {
+    "day": 240,
+    "name": "切里·桑巴",
+    "enName": "",
+    "years": "",
+    "country": "刚果",
+    "genre": "非西方/非洲波普"
+  },
+  {
+    "day": 241,
+    "name": "西林·内沙特",
+    "enName": "",
+    "years": "",
+    "country": "伊朗/美国",
+    "genre": "当代艺术/女性伊斯兰"
+  },
+  {
+    "day": 242,
+    "name": "威廉·肯特里奇",
+    "enName": "",
+    "years": "",
+    "country": "南非",
+    "genre": "当代艺术/黑白炭笔"
+  },
+  {
+    "day": 243,
+    "name": "尤因卡·肖尼巴尔",
+    "enName": "",
+    "years": "",
+    "country": "尼日利亚/英",
+    "genre": "当代艺术/后殖民印染"
+  },
+  {
+    "day": 244,
+    "name": "加布里埃尔·奥罗斯科",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "当代艺术/现成品雕塑"
+  },
+  {
+    "day": 245,
+    "name": "塔雷克·阿图伊",
+    "enName": "",
+    "years": "",
+    "country": "黎巴嫩",
+    "genre": "当代艺术/声音视觉"
+  },
+  {
+    "day": 246,
+    "name": "冷军",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/超写实主义"
+  },
+  {
+    "day": 247,
+    "name": "罗中立",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/《父亲》"
+  },
+  {
+    "day": 248,
+    "name": "陈丹青",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/西藏组画"
+  },
+  {
+    "day": 249,
+    "name": "邱志杰",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/总体艺术"
+  },
+  {
+    "day": 250,
+    "name": "宋冬",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/物尽其用"
+  },
+  {
+    "day": 251,
+    "name": "曹斐",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/新媒体虚拟"
+  },
+  {
+    "day": 252,
+    "name": "史金淞",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/解构金属树"
+  },
+  {
+    "day": 253,
+    "name": "阿尔布雷希特·丢勒",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "文艺复兴/版画线描"
+  },
+  {
+    "day": 254,
+    "name": "乔托",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴/透视前驱"
+  },
+  {
+    "day": 255,
+    "name": "丁托列托",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴/狂暴威尼斯"
+  },
+  {
+    "day": 256,
+    "name": "汉斯·梅姆林",
+    "enName": "",
+    "years": "",
+    "country": "尼德兰",
+    "genre": "文艺复兴/北方精细"
+  },
+  {
+    "day": 257,
+    "name": "安东内洛·达·梅西纳",
+    "enName": "",
+    "years": "",
+    "country": "意大利",
+    "genre": "文艺复兴/油画革新"
+  },
+  {
+    "day": 258,
+    "name": "让·富凯",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "文艺复兴/细密画"
+  },
+  {
+    "day": 259,
+    "name": "卢卡斯·克拉纳赫",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "文艺复兴/诱惑裸体"
+  },
+  {
+    "day": 260,
+    "name": "奥迪隆·雷东",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "象征主义/梦幻色彩"
+  },
+  {
+    "day": 261,
+    "name": "亨利·卢梭",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义/素人原生"
+  },
+  {
+    "day": 262,
+    "name": "保罗·塞律西埃",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派/纳比派护符"
+  },
+  {
+    "day": 263,
+    "name": "莫里斯·丹尼斯",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派/平涂装饰"
+  },
+  {
+    "day": 264,
+    "name": "皮埃尔·博纳尔",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派/私密色彩"
+  },
+  {
+    "day": 265,
+    "name": "爱德华·维亚尔",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派/室内装饰"
+  },
+  {
+    "day": 266,
+    "name": "埃米尔·贝尔纳",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "后印象派/景泰蓝主义"
+  },
+  {
+    "day": 267,
+    "name": "罗伯特·史密森",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/螺旋防波堤"
+  },
+  {
+    "day": 268,
+    "name": "理查德·塞拉",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/极简巨钢"
+  },
+  {
+    "day": 269,
+    "name": "卡尔·安德烈",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/金属地砖"
+  },
+  {
+    "day": 270,
+    "name": "约翰·巴尔代萨里",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/圆点遮脸波普"
+  },
+  {
+    "day": 271,
+    "name": "约瑟夫·科苏斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/三把椅子观念"
+  },
+  {
+    "day": 272,
+    "name": "芭芭拉·克鲁格",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/我买故我在"
+  },
+  {
+    "day": 273,
+    "name": "劳伦斯·维纳",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/语言是物质"
+  },
+  {
+    "day": 274,
+    "name": "阿尔丰斯·穆夏",
+    "enName": "",
+    "years": "",
+    "country": "捷克",
+    "genre": "现代主义/新艺术海报"
+  },
+  {
+    "day": 275,
+    "name": "诺曼·洛克威尔",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/美国梦插画"
+  },
+  {
+    "day": 276,
+    "name": "埃尔热",
+    "enName": "",
+    "years": "",
+    "country": "比利时",
+    "genre": "漫画/丁丁历险记"
+  },
+  {
+    "day": 277,
+    "name": "大友克洋",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/赛博朋克"
+  },
+  {
+    "day": 278,
+    "name": "宫崎骏",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/动画手绘"
+  },
+  {
+    "day": 279,
+    "name": "埃舍尔",
+    "enName": "",
+    "years": "",
+    "country": "荷兰",
+    "genre": "现代主义/不可能的建筑"
+  },
+  {
+    "day": 280,
+    "name": "迪克·布鲁纳",
+    "enName": "",
+    "years": "",
+    "country": "荷兰",
+    "genre": "现代主义/米菲兔极简"
+  },
+  {
+    "day": 281,
+    "name": "KAWS",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/波普潮玩"
+  },
+  {
+    "day": 282,
+    "name": "涂鸦先生",
+    "enName": "Mr. Doodle",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/迷宫涂鸦"
+  },
+  {
+    "day": 283,
+    "name": "亨利·达格",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/原生奇幻小说"
+  },
+  {
+    "day": 284,
+    "name": "尚·杜布菲",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "现代主义/粗野艺术"
+  },
+  {
+    "day": 285,
+    "name": "牧野富太郎",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/极致植物图谱"
+  },
+  {
+    "day": 286,
+    "name": "R·克鲁姆",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术/地下性手稿"
+  },
+  {
+    "day": 287,
+    "name": "Shepard Fairey",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/OBEY街头"
+  },
+  {
+    "day": 288,
+    "name": "比尔·维奥拉",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/生与死的影像"
+  },
+  {
+    "day": 289,
+    "name": "马修·巴尼",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/悬丝神话"
+  },
+  {
+    "day": 290,
+    "name": "皮皮洛蒂·瑞斯特",
+    "enName": "",
+    "years": "",
+    "country": "瑞士",
+    "genre": "当代艺术/色彩感官海洋"
+  },
+  {
+    "day": 291,
+    "name": "迈克尔·斯诺",
+    "enName": "",
+    "years": "",
+    "country": "加拿大",
+    "genre": "当代艺术/结构电影先锋"
+  },
+  {
+    "day": 292,
+    "name": "希多·斯特耶尔",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术/数字废墟散文"
+  },
+  {
+    "day": 293,
+    "name": "道格·艾特肯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/沉浸梦游影像"
+  },
+  {
+    "day": 294,
+    "name": "克里斯蒂安·马克雷",
+    "enName": "",
+    "years": "",
+    "country": "美国/瑞士",
+    "genre": "当代艺术/电影时钟拼贴"
+  },
+  {
+    "day": 295,
+    "name": "迭戈·里维拉",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "现代主义/政治壁画"
+  },
+  {
+    "day": 296,
+    "name": "华金·托雷斯·加西亚",
+    "enName": "",
+    "years": "",
+    "country": "乌拉圭",
+    "genre": "现代主义/拉美建构"
+  },
+  {
+    "day": 297,
+    "name": "维森特·曼纳内斯",
+    "enName": "",
+    "years": "",
+    "country": "菲律宾",
+    "genre": "非西方艺术/立体市井"
+  },
+  {
+    "day": 298,
+    "name": "塔西拉·杜·阿马拉尔",
+    "enName": "",
+    "years": "",
+    "country": "巴西",
+    "genre": "现代主义/热带食人族"
+  },
+  {
+    "day": 299,
+    "name": "弗朗西斯科·托莱多",
+    "enName": "",
+    "years": "",
+    "country": "墨西哥",
+    "genre": "当代艺术/瓦哈卡图腾"
+  },
+  {
+    "day": 300,
+    "name": "拉蒙·卡萨斯",
+    "enName": "",
+    "years": "",
+    "country": "西班牙",
+    "genre": "现代主义/加泰罗尼亚"
+  },
+  {
+    "day": 301,
+    "name": "伊格纳西奥·苏洛阿加",
+    "enName": "",
+    "years": "",
+    "country": "西班牙",
+    "genre": "现代主义/悲剧西班牙"
+  },
+  {
+    "day": 302,
+    "name": "威廉·哈默斯霍伊",
+    "enName": "",
+    "years": "",
+    "country": "丹麦",
+    "genre": "现代主义/孤寂北欧背影"
+  },
+  {
+    "day": 303,
+    "name": "卡尔·拉松",
+    "enName": "",
+    "years": "",
+    "country": "瑞典",
+    "genre": "现代主义/北欧温馨家居"
+  },
+  {
+    "day": 304,
+    "name": "库普卡",
+    "enName": "",
+    "years": "",
+    "country": "捷克",
+    "genre": "抽象主义/俄耳甫斯色彩"
+  },
+  {
+    "day": 305,
+    "name": "柳博芙·波波娃",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "现代主义/构成至上"
+  },
+  {
+    "day": 306,
+    "name": "扬·马泰伊科",
+    "enName": "",
+    "years": "",
+    "country": "波兰",
+    "genre": "浪漫主义/波兰史诗"
+  },
+  {
+    "day": 307,
+    "name": "伊利亚·卡巴科夫",
+    "enName": "",
+    "years": "",
+    "country": "俄罗斯",
+    "genre": "当代艺术/谁去倒垃圾"
+  },
+  {
+    "day": 308,
+    "name": "兹齐斯瓦夫·贝克辛斯基",
+    "enName": "",
+    "years": "",
+    "country": "波兰",
+    "genre": "当代艺术/末日骨骼迷雾"
+  },
+  {
+    "day": 309,
+    "name": "刘海粟",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "现代主义/十上黄山"
+  },
+  {
+    "day": 310,
+    "name": "赵兽",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "超现实主义/中华独立美"
+  },
+  {
+    "day": 311,
+    "name": "颜文樑",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "现代主义/东方印象"
+  },
+  {
+    "day": 312,
+    "name": "庞薰琹",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "现代主义/决澜社狂飙"
+  },
+  {
+    "day": 313,
+    "name": "卫天霖",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "印象派/泥土与向日葵"
+  },
+  {
+    "day": 314,
+    "name": "关紫兰",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "野兽派/现代女性肖像"
+  },
+  {
+    "day": 315,
+    "name": "吴大羽",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "抽象主义/势象美学"
+  },
+  {
+    "day": 316,
+    "name": "黄胄",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/新疆速写"
+  },
+  {
+    "day": 317,
+    "name": "石鲁",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/狂放长安派"
+  },
+  {
+    "day": 318,
+    "name": "陆俨少",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/云水峡江动态"
+  },
+  {
+    "day": 319,
+    "name": "溥心畬",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/旧王孙文人画"
+  },
+  {
+    "day": 320,
+    "name": "于非闇",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/瘦金体与花鸟"
+  },
+  {
+    "day": 321,
+    "name": "陈衡恪",
+    "enName": "陈师曾",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/金石文人"
+  },
+  {
+    "day": 322,
+    "name": "蒋兆和",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "东方艺术/流民图"
+  },
+  {
+    "day": 323,
+    "name": "威廉·透纳",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义/风暴光色旋风"
+  },
+  {
+    "day": 324,
+    "name": "卢西安·弗洛伊德",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/审视的肥胖肉"
+  },
+  {
+    "day": 325,
+    "name": "弗兰西斯·培根",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "表现主义/痉挛的教皇肉"
+  },
+  {
+    "day": 326,
+    "name": "麦金托什",
+    "enName": "",
+    "years": "",
+    "country": "苏格兰",
+    "genre": "现代主义/高直新艺术"
+  },
+  {
+    "day": 327,
+    "name": "马塔-克拉克",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/电锯切房子"
+  },
+  {
+    "day": 328,
+    "name": "威廉·霍尔曼·亨特",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义/前拉斐尔细节"
+  },
+  {
+    "day": 329,
+    "name": "爱德华·伯恩-琼斯",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "浪漫主义/苍白神话"
+  },
+  {
+    "day": 330,
+    "name": "卡米耶·克洛岱尔",
+    "enName": "",
+    "years": "",
+    "country": "法国",
+    "genre": "表现主义/罗丹的情人与痛"
+  },
+  {
+    "day": 331,
+    "name": "康斯坦丁·布朗库西",
+    "enName": "",
+    "years": "",
+    "country": "罗马尼亚",
+    "genre": "现代主义/极简飞鸟圆顶"
+  },
+  {
+    "day": 332,
+    "name": "亨利·摩尔",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "现代主义/穿孔卧姿雕塑"
+  },
+  {
+    "day": 333,
+    "name": "亚历山大·考尔德",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/红黄动态风铃"
+  },
+  {
+    "day": 334,
+    "name": "贾科梅蒂",
+    "enName": "",
+    "years": "",
+    "country": "瑞士",
+    "genre": "现代主义/存在的火柴人"
+  },
+  {
+    "day": 335,
+    "name": "安尼施·卡普尔",
+    "enName": "",
+    "years": "",
+    "country": "印度/英国",
+    "genre": "当代艺术/绝对黑洞云门"
+  },
+  {
+    "day": 336,
+    "name": "安东尼·葛姆雷",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/沙滩铸铁假人"
+  },
+  {
+    "day": 337,
+    "name": "爱德华·施泰兴",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/画意摄影池畔"
+  },
+  {
+    "day": 338,
+    "name": "阿希尔·戈尔基",
+    "enName": "",
+    "years": "",
+    "country": "亚美尼亚",
+    "genre": "抽象主义/超现实滤镜"
+  },
+  {
+    "day": 339,
+    "name": "理查德·汉密尔顿",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "波普艺术/明日之家拼贴"
+  },
+  {
+    "day": 340,
+    "name": "查克·克洛斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术/照相马赛克格"
+  },
+  {
+    "day": 341,
+    "name": "韦恩·蒂博",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "波普艺术/孤寂奶油蛋糕"
+  },
+  {
+    "day": 342,
+    "name": "弗兰克·斯特拉",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "极简主义/异形画布"
+  },
+  {
+    "day": 343,
+    "name": "格兰特·伍德",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "现代主义/美国哥特式"
+  },
+  {
+    "day": 344,
+    "name": "菅木志雄",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术/物派场域石头"
+  },
+  {
+    "day": 345,
+    "name": "关根伸夫",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术/物派位相大地"
+  },
+  {
+    "day": 346,
+    "name": "筱山纪信",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "摄影/少女与刺青肉体"
+  },
+  {
+    "day": 347,
+    "name": "盐田千春",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "当代艺术/红黑线网梦魇"
+  },
+  {
+    "day": 348,
+    "name": "黑田清辉",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "现代主义/外光派紫藤"
+  },
+  {
+    "day": 349,
+    "name": "东山魁夷",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/宁静国民风景"
+  },
+  {
+    "day": 350,
+    "name": "平山郁夫",
+    "enName": "",
+    "years": "",
+    "country": "日本",
+    "genre": "东方艺术/丝路求法落日"
+  },
+  {
+    "day": 351,
+    "name": "瑞秋·怀特雷德",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/负空间幽灵书"
+  },
+  {
+    "day": 352,
+    "name": "乌雷",
+    "enName": "Ulay",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术/阿布拉莫维奇伴侣"
+  },
+  {
+    "day": 353,
+    "name": "克里斯托与珍妮-克劳德",
+    "enName": "",
+    "years": "",
+    "country": "法国等",
+    "genre": "当代艺术/打包整个岛屿"
+  },
+  {
+    "day": 354,
+    "name": "塔西塔·迪恩",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/16毫米胶片时光"
+  },
+  {
+    "day": 355,
+    "name": "吕克·图伊曼斯",
+    "enName": "",
+    "years": "",
+    "country": "比利时",
+    "genre": "当代艺术/褪色病态历史"
+  },
+  {
+    "day": 356,
+    "name": "达希亚·维拉斯科",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/沉浸光影体验"
+  },
+  {
+    "day": 357,
+    "name": "徐震",
+    "enName": "",
+    "years": "",
+    "country": "中国",
+    "genre": "当代艺术/没顶公司超市"
+  },
+  {
+    "day": 358,
+    "name": "里纳斯·范·德·维德",
+    "enName": "",
+    "years": "",
+    "country": "比利时",
+    "genre": "当代艺术/虚构木炭传记"
+  },
+  {
+    "day": 359,
+    "name": "马修·王",
+    "enName": "Matthew Wong",
+    "years": "",
+    "country": "加拿大/中国",
+    "genre": "当代艺术/极度忧郁蓝景"
+  },
+  {
+    "day": 360,
+    "name": "彼得·多依格",
+    "enName": "",
+    "years": "",
+    "country": "英国",
+    "genre": "当代艺术/诡异雪景独木舟"
+  },
+  {
+    "day": 361,
+    "name": "西斯特·盖茨",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/黑人非裔复兴"
+  },
+  {
+    "day": 362,
+    "name": "朱莉·梅雷图",
+    "enName": "",
+    "years": "",
+    "country": "埃塞俄比亚",
+    "genre": "当代艺术/大都会地图爆破"
+  },
+  {
+    "day": 363,
+    "name": "大卫·汉蒙斯",
+    "enName": "",
+    "years": "",
+    "country": "美国",
+    "genre": "当代艺术/街头卖雪球"
+  },
+  {
+    "day": 364,
+    "name": "加哈尔·施奈德",
+    "enName": "",
+    "years": "",
+    "country": "德国",
+    "genre": "当代艺术/造死亡压迫空屋"
+  },
+  {
+    "day": 365,
+    "name": "阿尔塔米拉壁画匿名者与AI",
+    "enName": "",
+    "years": "",
+    "country": "跨越时空",
+    "genre": "起点与未来：万物皆画"
+  }
+]
