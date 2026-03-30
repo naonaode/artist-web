@@ -117,7 +117,7 @@ const Home = () => {
   const navigate = useNavigate();
   const [search, setSearch] = useState('');
   const [filter, setFilter] = useState('ALL');
-  const [viewMode, setViewMode] = useState('grid');
+  const [viewMode, setViewMode] = useState('week');
 
   const filteredArtists = useMemo(() => {
     const q = search.toLowerCase();
@@ -230,7 +230,7 @@ const Home = () => {
                 <span style={{ fontSize: '0.75rem', color: 'rgba(255,255,255,0.25)', fontWeight: 600, letterSpacing: '0.1em' }}>{range} · {artists.length} 位</span>
                 <div style={{ flex: 1, height: 1, background: 'rgba(255,255,255,0.04)' }} />
               </div>
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1rem' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '1.5rem' }}>
                 {artists.map(artist => (
                   <ArtistCard key={artist.day} artist={artist} onClick={() => navigate(`/artist/${artist.day}`)} />
                 ))}

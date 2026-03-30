@@ -2,7 +2,7 @@ import React, { useEffect, useState, useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, ChevronLeft, ChevronRight, Copy, Globe, Sparkles, Quote } from 'lucide-react';
 import gsap from 'gsap';
-import ARTIST_BIOS from '../data/artistBios';
+import ARTIST_BIOS from '../data/bios/index';
 import ALL_ARTISTS_RAW from '../data/artists.json';
 import ARTIST_IMAGES from '../data/artistImages';
 
@@ -121,48 +121,53 @@ const ArtistDetail = () => {
 
           {/* Detailed Periods */}
           {artist.bio?.periods ? (
-            artist.bio.periods.map((period, idx) => (
-              <div key={idx} className="detail-section" style={{ marginBottom: '6rem', position: 'relative' }}>
-                <div style={{ display: 'flex', alignItems: 'baseline', gap: 15, marginBottom: '1.5rem' }}>
-                  <h3 style={{ fontSize: '1.8rem', fontWeight: 800, fontFamily: "'Outfit', sans-serif", letterSpacing: '-0.02em' }}>
-                    {period.title}
-                  </h3>
-                  <span style={{ fontSize: '0.9rem', opacity: 0.3, fontWeight: 600 }}>{period.years}</span>
-                </div>
+            <div style={{ position: 'relative', paddingLeft: '2.5rem', marginLeft: '1rem', borderLeft: '2px solid rgba(255,255,255,0.1)' }}>
+              {artist.bio.periods.map((period, idx) => (
+                <div key={idx} className="detail-section" style={{ marginBottom: '6rem', position: 'relative' }}>
+                  {/* Timeline Dot */}
+                  <div style={{ position: 'absolute', left: '-3.1rem', top: '0.5rem', width: '1.2rem', height: '1.2rem', borderRadius: '50%', background: '#050505', border: `3px solid ${artist.color}` }} />
 
-                {/* Keywords Chips */}
-                <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: '2rem' }}>
-                  {period.keywords?.map((k, i) => (
-                    <span key={i} style={{ fontSize: '0.65rem', fontWeight: 700, padding: '0.3rem 0.8rem', borderRadius: 6, background: 'rgba(255,255,255,0.05)', color: artist.color, border: `1px solid ${artist.color}33`, letterSpacing: '0.05em' }}>
-                      {k.toUpperCase()}
-                    </span>
-                  ))}
-                </div>
-
-                {/* Main Content */}
-                <p style={{ fontSize: '1.15rem', lineHeight: 1.9, fontWeight: 300, color: 'rgba(255,255,255,0.75)', marginBottom: '2rem' }}>
-                  {period.content}
-                </p>
-
-                {/* Quote */}
-                {period.quote && (
-                  <div style={{ padding: '2rem', borderLeft: `3px solid ${artist.color}`, background: 'rgba(255,255,255,0.02)', borderRadius: '0 12px 12px 0', marginBottom: '2rem', position: 'relative' }}>
-                    <Quote size={40} style={{ position: 'absolute', top: 10, right: 20, opacity: 0.05 }} />
-                    <p style={{ fontSize: '1.1rem', fontStyle: 'italic', lineHeight: 1.6, color: '#fff' }}>"{period.quote}"</p>
+                  <div style={{ display: 'flex', alignItems: 'baseline', gap: 15, marginBottom: '1.5rem' }}>
+                    <h3 style={{ fontSize: '1.8rem', fontWeight: 800, fontFamily: "'Outfit', sans-serif", letterSpacing: '-0.02em', color: '#fff' }}>
+                      {period.title}
+                    </h3>
+                    <span style={{ fontSize: '0.9rem', opacity: 0.4, fontWeight: 700, color: artist.color }}>{period.years}</span>
                   </div>
-                )}
 
-                {/* Works Tags */}
-                {period.works && (
-                  <div style={{ display: 'flex', alignItems: 'center', gap: 12, opacity: 0.5 }}>
-                    <span style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.1em' }}>WORKS:</span>
-                    {period.works.map((w, i) => (
-                      <span key={i} style={{ fontSize: '0.85rem', fontWeight: 300 }}>{w}{i < period.works.length - 1 ? ' · ' : ''}</span>
+                  {/* Keywords Chips */}
+                  <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: '2rem' }}>
+                    {period.keywords?.map((k, i) => (
+                      <span key={i} style={{ fontSize: '0.65rem', fontWeight: 700, padding: '0.3rem 0.8rem', borderRadius: 6, background: 'rgba(255,255,255,0.05)', color: artist.color, border: `1px solid ${artist.color}33`, letterSpacing: '0.05em' }}>
+                        {k.toUpperCase()}
+                      </span>
                     ))}
                   </div>
-                )}
-              </div>
-            ))
+
+                  {/* Main Content */}
+                  <p style={{ fontSize: '1.15rem', lineHeight: 1.9, fontWeight: 300, color: 'rgba(255,255,255,0.75)', marginBottom: '2rem' }}>
+                    {period.content}
+                  </p>
+
+                  {/* Quote */}
+                  {period.quote && (
+                    <div style={{ padding: '2rem', borderLeft: `3px solid ${artist.color}`, background: 'rgba(255,255,255,0.02)', borderRadius: '0 12px 12px 0', marginBottom: '2rem', position: 'relative' }}>
+                      <Quote size={40} style={{ position: 'absolute', top: 10, right: 20, opacity: 0.05 }} />
+                      <p style={{ fontSize: '1.1rem', fontStyle: 'italic', lineHeight: 1.6, color: '#fff' }}>"{period.quote}"</p>
+                    </div>
+                  )}
+
+                  {/* Works Tags */}
+                  {period.works && (
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 12, opacity: 0.5, borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.5rem', marginTop: '1rem' }}>
+                      <span style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.1em' }}>REPRESENTATIVE PIECES:</span>
+                      {period.works.map((w, i) => (
+                        <span key={i} style={{ fontSize: '0.85rem', fontWeight: 300 }}>{w}{i < period.works.length - 1 ? ' · ' : ''}</span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
           ) : (
              /* Fallback to simple story if no periods */
              <div className="detail-section" style={{ marginBottom: '6rem' }}>
