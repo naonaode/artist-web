@@ -5,6 +5,7 @@ import gsap from 'gsap';
 import ARTIST_BIOS from '../data/bios/index';
 import ALL_ARTISTS_RAW from '../data/artists.json';
 import ARTIST_IMAGES from '../data/artistImages';
+import ARTWORK_IMAGES from '../data/artworks';
 
 function getGenreColor(genre) {
   if (!genre) return '#888';
@@ -26,6 +27,7 @@ const ArtistDetail = () => {
   const [wikiData, setWikiData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [copied, setCopied] = useState(false);
+  const [zoomedImage, setZoomedImage] = useState(null);
 
   const artist = useMemo(() => {
     const raw = ALL_ARTISTS_RAW.find(a => parseInt(a.day) === parseInt(day));
@@ -156,13 +158,33 @@ const ArtistDetail = () => {
                     </div>
                   )}
 
-                  {/* Works Tags */}
+                  {/* Works Tags & Images */}
                   {period.works && (
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 12, opacity: 0.5, borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.5rem', marginTop: '1rem' }}>
-                      <span style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.1em' }}>REPRESENTATIVE PIECES:</span>
-                      {period.works.map((w, i) => (
-                        <span key={i} style={{ fontSize: '0.85rem', fontWeight: 300 }}>{w}{i < period.works.length - 1 ? ' · ' : ''}</span>
-                      ))}
+                    <div style={{ marginTop: '2rem' }}>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 12, opacity: 0.5, borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '1.5rem', marginBottom: '1.5rem' }}>
+                        <span style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.1em' }}>REPRESENTATIVE PIECES:</span>
+                        {period.works.map((w, i) => (
+                          <span key={i} style={{ fontSize: '0.85rem', fontWeight: 300 }}>{w}{i < period.works.length - 1 ? ' · ' : ''}</span>
+                        ))}
+                      </div>
+                      
+                      {/* Period Sub-gallery */}
+                      <div className="hide-scrollbar" style={{ display: 'flex', gap: '1rem', overflowX: 'auto', paddingBottom: '1rem', msOverflowStyle: 'none', scrollbarWidth: 'none' }}>
+                        {period.works.map((work, idx) => {
+                          const workImage = ARTWORK_IMAGES[work];
+                          if (!workImage) return null;
+                          return (
+                            <div key={idx} style={{ flex: '0 0 auto', width: '280px', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)', background: '#111' }}>
+                              <div style={{ width: '100%', height: '200px', overflow: 'hidden' }}>
+                                <img src={workImage} alt={work} onClick={() => setZoomedImage(workImage)} referrerPolicy="no-referrer" style={{ width: '100%', height: '100%', objectFit: 'cover', transition: 'transform 0.5s ease', cursor: 'zoom-in' }} onMouseOver={e => e.currentTarget.style.transform = 'scale(1.05)'} onMouseOut={e => e.currentTarget.style.transform = 'scale(1)'} loading="lazy" />
+                              </div>
+                              <div style={{ padding: '0.75rem 1rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                                <span style={{ fontSize: '0.8rem', fontWeight: 700, color: 'rgba(255,255,255,0.9)' }}>{work}</span>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
                     </div>
                   )}
                 </div>
@@ -215,6 +237,31 @@ const ArtistDetail = () => {
 
         </section>
       </div>
+
+      {/* 画作全貌放大器 (Lightbox Viewer) */}
+      {zoomedImage && (
+        <div 
+          onClick={() => setZoomedImage(null)}
+          style={{ 
+            position: 'fixed', inset: 0, zIndex: 99999, 
+            background: 'rgba(0,0,0,0.92)', display: 'flex', 
+            justifyContent: 'center', alignItems: 'center', 
+            cursor: 'zoom-out', padding: '3vw', backdropFilter: 'blur(10px)',
+            animation: 'fadeIn 0.2s ease-out'
+          }}
+        >
+          <img 
+            src={zoomedImage} 
+            alt="Zoomed Artwork" 
+            style={{ 
+              maxWidth: '100%', maxHeight: '100%', 
+              objectFit: 'contain', 
+              boxShadow: '0 25px 80px rgba(0,0,0,1)',
+              borderRadius: '4px'
+            }} 
+          />
+        </div>
+      )}
     </div>
   );
 };
