@@ -1,0 +1,46 @@
+{ "field_name": "集数编号", "type": 1 }
+<!-- slide -->
+{ "field_name": "目标汉字", "type": 1 }
+<!-- slide -->
+{
+  "field_name": "制作状态",
+  "type": 3,
+  "property": {
+    "options": [
+      { "name": "待启动", "color": 0 },
+      { "name": "脚本中", "color": 1 },
+      { "name": "待审核", "color": 2 },
+      { "name": "制作中", "color": 3 },
+      { "name": "待发布", "color": 4 },
+      { "name": "已发布", "color": 5 },
+      { "name": "已暂停", "color": 6 }
+    ]
+  }
+}
+<!-- slide -->
+{ "field_name": "脚本负责人", "type": 11 }
+<!-- slide -->
+{ "field_name": "制作负责人", "type": 11 }
+<!-- slide -->
+{ "field_name": "脚本截止日", "type": 5 }
+<!-- slide -->
+{ "field_name": "发布日期", "type": 5 }
+<!-- slide -->
+{ "field_name": "脚本文件链接", "type": 15 }
+<!-- slide -->
+{ "field_name": "视频文件链接", "type": 15 }
+<!-- slide -->
+{ "field_name": "审核意见", "type": 1 }
+<!-- slide -->
+{
+  "field_name": "发布平台",
+  "type": 4,
+  "property": {
+    "options": [
+      { "name": "B站", "color": 0 },
+      { "name": "抖音", "color": 1 },
+      { "name": "视频号", "color": 2 },
+      { "name": "YouTube", "color": 3 }
+    ]
+  }
+}

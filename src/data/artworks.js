@@ -2,6 +2,12 @@
 const IMAGE_HOST = "/artworks/"; 
 
 const ARTWORK_IMAGES = {
+  "自画像": "/artworks/文森特_梵高_自画像.jpg",
+  "鸢尾花": "/artworks/文森特_梵高_鸢尾花.jpg",
+  "时间在流逝": "/artworks/弗里达_卡罗_时间在流逝.jpg",
+  "弗里达与迭戈·里维拉": "/artworks/弗里达_卡罗_弗里达与迭戈_里维拉.jpg",
+  "万岁，生命！": "/artworks/弗里达_卡罗_万岁，生命！.jpg",
+
   // 梵高 (Day 001)
   "吃土豆的人": `${IMAGE_HOST}van_gogh_potato_eaters.jpg`,
   "唐吉老爹": `${IMAGE_HOST}van_gogh_tanguy.jpg`,
@@ -20,7 +26,8 @@ const ARTWORK_IMAGES = {
   "吻": `${IMAGE_HOST}klimt_kiss.jpg`,
 
   // 莫奈 (例子)
-  "印象·日出": `${IMAGE_HOST}monet_sunrise.jpg`
+  "印象·日出": `${IMAGE_HOST}monet_sunrise.jpg`,
+
 };
 
 export default ARTWORK_IMAGES;
