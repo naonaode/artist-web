@@ -171,7 +171,7 @@ const ArtistDetail = () => {
                       {/* Period Sub-gallery */}
                       <div className="hide-scrollbar" style={{ display: 'flex', gap: '1rem', overflowX: 'auto', paddingBottom: '1rem', msOverflowStyle: 'none', scrollbarWidth: 'none' }}>
                         {period.works.map((work, idx) => {
-                          const workImage = ARTWORK_IMAGES[work];
+                          const workImage = ARTWORK_IMAGES[`${artist.name}_${work}`] || ARTWORK_IMAGES[work];
                           if (!workImage) return null;
                           return (
                             <div key={idx} style={{ flex: '0 0 auto', width: '280px', borderRadius: '12px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.1)', background: '#111' }}>

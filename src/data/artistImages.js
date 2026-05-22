@@ -1,11 +1,17 @@
 // Local AI generated hero portraits
 // Format: artist Chinese name → local public url
 const ARTIST_IMAGES = {
-  '文森特·梵高': '/hero_images/van_gogh.png',
-  '弗里达·卡罗': '/hero_images/frida.png',
-  '萨尔瓦多·达利': '/hero_images/dali.png',
+  '文森特·梵高': '/artworks/van_gogh_avatar.png',
+  '克劳德·莫奈': '/artworks/monet_avatar.png',
+  '弗里达·卡罗': '/artworks/frida_avatar.png',
+  '萨尔瓦多·达利': '/artworks/dali_avatar.png',
+  '古斯塔夫·克里姆特': '/artworks/klimt_avatar.png',
   '草间弥生': '/hero_images/kusama.png',
   '让-米歇尔·巴斯奎特': '/hero_images/basquiat.png',
+  '班克斯': '/artworks/banksy_avatar.png',
+  '卡拉瓦乔': '/artworks/caravaggio_avatar.png',
+  '埃贡·席勒': '/artworks/schiele_avatar.png',
+  '安迪·沃霍尔': '/artworks/warhol_avatar.png',
 };
 
 export default ARTIST_IMAGES;
