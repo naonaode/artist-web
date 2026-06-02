@@ -78,9 +78,10 @@ def process_batch():
         print("🎉 任务队列为空，所有名画已抓取完毕！")
         return
 
-    print(f"🚀 启动特战小队！开始通过 icrawler 抓取前 10 幅未录入画作...\n")
+    BATCH_SIZE = len(pending) # Process the entire remaining queue!
+    print(f"🚀 启动特战小队！开始通过 icrawler 抓取全部 {BATCH_SIZE} 幅未录入画作...\n")
     
-    batch = pending[:10] # FETCH FIRST 10 BATCH
+    batch = pending[:BATCH_SIZE] # FETCH BATCH
     results = []
     
     for item in batch:
@@ -96,8 +97,14 @@ def process_batch():
         safe_filename = f"{artist}_{work}.jpg".replace("/", "_").replace("\\", "_").replace(" ", "_").replace("·", "_")
         out_path = os.path.join(public_artworks_dir, safe_filename)
         
-        # Search & Download via iCrawler
-        success = search_icrawler_image(en_query, out_path)
+        # Check if already downloaded (idempotency)
+        if os.path.exists(out_path) and os.path.getsize(out_path) > 0:
+            print(f"  ⏭️ 检测到本地文件已存在 ({safe_filename})，跳过抓取")
+            success = True
+        else:
+            # Search & Download via iCrawler
+            success = search_icrawler_image(en_query, out_path)
+            time.sleep(2) # rate limiting
         
         if success:
             relative_path = f"/artworks/{safe_filename}"
@@ -105,11 +112,9 @@ def process_batch():
             results.append((work, relative_path))
         else:
             print(f"  ❌ 抓取失败\n")
-            
-        time.sleep(2) # rate limiting
         
     print("--------------------------------------------------")
-    print(f"🎯 侦察排任务完成！成功捕获 {len(results)}/10 幅传世原图！")
+    print(f"🎯 侦察排任务完成！成功捕获 {len(results)}/{len(batch)} 幅传世原图！")
     
     # Auto-update artworks.js safely
     if results:
@@ -130,8 +135,8 @@ def process_batch():
                 f.write(new_content)
             print("💾 数据库自动装载完毕！[artworks.js已更新]")
             
-        # Remove these 10 from the pending array logic so we don't repeat them
-        remaining = pending[10:]
+        # Remove this batch from the pending array logic so we don't repeat them
+        remaining = pending[len(batch):]
         with open(pending_path, 'w', encoding='utf-8') as f:
             json.dump(remaining, f, ensure_ascii=False, indent=2)
 
